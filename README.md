@@ -1,2 +1,2 @@
-# AfroDev-Challenge-iOS
+Challenge-iOS
 Challenge-Afrodev-iOS
